@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/React-fundamentals-api-calling/static/js/main.23ed33c5.chunk.js",
+    "main.js.map": "/React-fundamentals-api-calling/static/js/main.23ed33c5.chunk.js.map",
+    "runtime~main.js": "/React-fundamentals-api-calling/static/js/runtime~main.f4a46079.js",
+    "runtime~main.js.map": "/React-fundamentals-api-calling/static/js/runtime~main.f4a46079.js.map",
+    "static/js/2.4560719b.chunk.js": "/React-fundamentals-api-calling/static/js/2.4560719b.chunk.js",
+    "static/js/2.4560719b.chunk.js.map": "/React-fundamentals-api-calling/static/js/2.4560719b.chunk.js.map",
+    "index.html": "/React-fundamentals-api-calling/index.html",
+    "precache-manifest.accdcc48ed59c142278745e15108a2ac.js": "/React-fundamentals-api-calling/precache-manifest.accdcc48ed59c142278745e15108a2ac.js",
+    "service-worker.js": "/React-fundamentals-api-calling/service-worker.js"
+  }
+}
